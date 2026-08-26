@@ -1,0 +1,35 @@
+{
+  "feature_cols": [
+    "precip_3d",
+    "precip_7d",
+    "precip_30d",
+    "pet",
+    "soil_moisture_proxy_mm",
+    "area",
+    "dpsbar",
+    "elev_mean",
+    "dwood_perc",
+    "grass_perc",
+    "crop_perc",
+    "urban_perc",
+    "sand_perc",
+    "clay_perc",
+    "porosity_cosby",
+    "conductivity_cosby"
+  ],
+  "scale_pos_weight": 19.026476578411405,
+  "n_train_positive": 491,
+  "n_train_total": 9833,
+  "val_scores": {
+    "precision": 0.5376884422110553,
+    "recall": 0.8199233716475096,
+    "f1": 0.6494688922610015,
+    "avg_precision": 0.6133514603515444
+  },
+  "test_scores": {
+    "precision": 0.501039501039501,
+    "recall": 0.7774193548387097,
+    "f1": 0.6093552465233881,
+    "avg_precision": 0.6097193090128497
+  }
+}
