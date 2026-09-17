@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "UK Catchment Flood & Water Security Toolkit"
+authors:
+  - family-names: "Jariwala"
+    given-names: "Shreya"
+version: "1.0.0"
+date-released: "2026-09-17"
+url: "https://github.com/ShreyaJari/flood-and-water-security"
+repository-code: "https://github.com/ShreyaJari/flood-and-water-security"
+license: MIT
+keywords:
+  - geoai
+  - remote-sensing
+  - earth-observation
+  - flood-forecasting
+  - lstm
+  - camels-gb
+abstract: >
+  An integrated rainfall-runoff forecasting, explainable flood-risk
+  classification, and geospatial risk overlay pipeline for two
+  contrasting UK catchments, chaining forecasting and risk assessment for
+  the same drainage basins.
